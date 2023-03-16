@@ -87,11 +87,13 @@ After model tuning, all models demonstrated improved results, except for the SVM
 |Decision Tree|78.18%|81.22%|
 |Random Forest|78.81%|78.81%|
 
-<h2 id="step5">
+<h2 id="step6">
   6. Model Evaluation
 </h2>
 
-Since a better validation performance does not necessarily imply a better performance in predicting the test data set, in this step a final model evaluation was performed with the test data set, using the tuned models. **Random Forest** model accuracy score was the highest among models for the testing set.
+Since a better validation performance does not necessarily imply a better performance in predicting the test data set, in this step a final model evaluation was performed with the test data set, using the tuned models. 
+
+**Random Forest** model accuracy score was the highest among models for the testing set.
 
 | |Model Accuracy for the testing set|
 |----|----|
@@ -102,7 +104,7 @@ Since a better validation performance does not necessarily imply a better perfor
 |Decision Tree|80.22%|
 |Random Forest|83.58%|
 
-<h2 id="step6">
+<h2 id="step7">
   7. Model Results
 </h2>
 
