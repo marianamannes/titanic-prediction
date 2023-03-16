@@ -76,7 +76,7 @@ The baseline validation performance can be seen below:
 
 Model tuning with GridSearchCV for finding the optimal hyperparameters to increase the models performance.
 
-After model tuning, all models demonstrated improved results, except for the SVM model which maintained its original accuracy:
+After model tuning, all models demonstrated improved results, except for the SVM and Random Forest models, which retained their original levels of accuracy:
 
 | |Baseline Model Accuracy|Model Tuned Accuracy|
 |----|----|----|
@@ -108,11 +108,8 @@ Since a better validation performance does not necessarily imply a better perfor
 
 Below are a few highlights of the model results:
 
-<p align="center">
-<img src="https://i.ibb.co/74ZG18d/download.png" width=50% height=70%>
-
-<p align="center">
-<img src="https://i.ibb.co/SrkZgDC/download-1.png" width=50% height=70%>
+<img src="https://i.ibb.co/74ZG18d/download.png" width=30% height=70%>
+<img src="https://i.ibb.co/SrkZgDC/download-1.png" width=30% height=70%>
 
 <p align="center">
 <img src="https://i.ibb.co/7SWZXFf/download-2.png" width=100% height=70%>
